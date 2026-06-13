@@ -23,8 +23,9 @@ This project was created as a practice project for university students learning 
 
 python calculator.py
 
-## Screenshot
-(Add screenshot here)
+![calculator](Py-calc-v1.png)
+![calculator](Py-calc-v2.png)
+
 
 ## Author
-Student Python Project
+M.SH
