@@ -23,8 +23,8 @@ This project was created as a practice project for university students learning 
 
 python calculator.py
 
-![calculator](Py-calc-v1.png)
-![calculator](Py-calc-v2.png)
+![calculator](py-calc-v1.png)
+![calculator](py-calc-v2.png)
 
 
 ## Author
